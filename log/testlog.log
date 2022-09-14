@@ -1,0 +1,36 @@
+2022-09-13 02:02:11,551 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-13 02:02:11,584 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-13 02:02:15,535 - eReturn Test -INFO - Double click test is start here
+2022-09-13 02:02:17,230 - eReturn Test -INFO - Double click test is passed
+2022-09-13 02:02:17,252 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-13 02:02:17,252 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-13 02:02:20,740 - eReturn Test -INFO - Right click test is start here
+2022-09-14 17:14:59,061 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 17:14:59,124 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 17:15:03,694 - eReturn Test -INFO - Get coordinate dimension value of elements test is start here
+2022-09-14 17:17:49,113 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 17:17:49,175 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 17:17:53,142 - eReturn Test -INFO - Get coordinate dimension value of elements test is start here
+2022-09-14 17:17:53,214 - eReturn Test -INFO - X coordinate: 492
+2022-09-14 17:17:53,232 - eReturn Test -INFO - Y coordinate: 317
+2022-09-14 17:25:23,280 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 17:25:23,314 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 17:25:27,365 - eReturn Test -INFO - Get coordinate dimension value of elements test is start here
+2022-09-14 17:25:27,460 - eReturn Test -INFO - X coordinate: 492
+2022-09-14 17:25:27,481 - eReturn Test -INFO - Y coordinate: 317
+2022-09-14 17:25:27,519 - eReturn Test -INFO - Login Button Width 364
+2022-09-14 17:25:27,556 - eReturn Test -INFO - Login Button Height 48
+2022-09-14 17:47:42,046 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 17:47:42,083 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 17:47:46,062 - eReturn Test -INFO - Get coordinate dimension value of elements test is start here
+2022-09-14 17:47:46,142 - eReturn Test -INFO - X coordinate is: 492
+2022-09-14 17:47:46,175 - eReturn Test -INFO - Y coordinate is: 317
+2022-09-14 17:47:46,217 - eReturn Test -INFO - Login Button Width is: 364
+2022-09-14 17:47:46,251 - eReturn Test -INFO - Login Button Height is: 48
+2022-09-14 17:47:46,285 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 17:47:46,297 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\mhsuj\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 17:47:49,848 - eReturn Test -INFO - Get coordinate and dimension using getRact start here
+2022-09-14 17:47:49,889 - eReturn Test -INFO - X coordinate is: 492
+2022-09-14 17:47:49,923 - eReturn Test -INFO - Y coordinate is: 317
+2022-09-14 17:47:49,950 - eReturn Test -INFO - Login Button Width is: 364
+2022-09-14 17:47:50,034 - eReturn Test -INFO - Login Button Height is: 48
